@@ -17,4 +17,13 @@ $ git reset HEAD ./git-commands-practice.txt
 reset --> reset HEAD used  to unstage file
 
 $ git checkout README.md
-checkout --> Discard changes in working directory
+checkout --> Update HEAD to set specified branch as current branch.
+
+$ git diff
+diff --> list changes between commints, commit and working tree, etc.
+
+$ git push origin master
+push --> update remote refs along with associate refs where origin is default name of repository and master is default branch
+
+$ git pull 
+pull --> fetch from and integrate with another repository or a local branch
