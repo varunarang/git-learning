@@ -1,0 +1,20 @@
+
+$ git clone git@github.com:varunarang/git-learning.git
+clone -->	Clone an existing repository into a new directory
+			using SSH clone url 
+
+
+$ git add ./git-commands-practice.txt
+add -->	Add new files in content index of your local git repository. Also make it ready to commit on remote repository.
+
+$ git status
+status --> Show working tree status
+			first --> it display what you would commit
+			second --> changes not staged commit
+			third --> untrack files
+
+$ git reset HEAD ./git-commands-practice.txt
+reset --> reset HEAD used  to unstage file
+
+$ git checkout README.md
+checkout --> Discard changes in working directory
