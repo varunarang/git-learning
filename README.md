@@ -1,4 +1,11 @@
 git-learning
 ============
 
-No much, and of course, there are no dumb questions.
+There are no dumb questions.
+
+
+Today we are learning a few things in Git.
+
+- Hopefully this will benefit everyone here.
+- A good news, the Librify application is now Adobe certified... yyyyiieee....
+
